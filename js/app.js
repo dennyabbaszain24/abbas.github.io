@@ -67,7 +67,7 @@ searchButton.addEventListener('click', async () => {
 
 function conge(error) {
     return `<div class="col-md-3 imgB justify-content-center text-center">
-                <img src="2.jfif" class="img-fluid">
+                <img src="img/2.jfif" class="img-fluid">
                 <h5>${error}</h5>
             </div>`
 }
